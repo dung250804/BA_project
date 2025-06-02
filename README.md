@@ -22,6 +22,7 @@ catalog.csv	Thông tin mô tả sản phẩm
 store.csv	Thông tin mô tả cửa hàng
 
 🧠 Xử lý dữ liệu
+
 ❌ Loại bỏ một số feature để tránh data leakage
 markdown: Do markdown thường được áp dụng cho sản phẩm bán chậm hoặc cần xả hàng (sau khi biết được hiệu suất bán), việc đưa vào mô hình gây rò rỉ dữ liệu (leakage).
 
