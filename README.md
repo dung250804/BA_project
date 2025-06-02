@@ -8,7 +8,7 @@ Tập huấn luyện: 7,640,724 samples
 
 Tập kiểm tra: 883,680 samples
 
-🔗 Link cuộc thi: ML Zoomcamp 2024 - Kaggle
+🔗 Link cuộc thi: [ML Zoomcamp 2024 - Kaggle](https://www.kaggle.com/competitions/ml-zoomcamp-2024-competition/overview)
 
 📁 Cấu trúc dữ liệu
 Tên file	Mô tả
@@ -47,4 +47,5 @@ Kết quả cuộc thi:
 [ML Zoomcamp 2024 LeaderBoard](https://www.kaggle.com/competitions/ml-zoomcamp-2024-competition/leaderboard?)
 
 Kết quả 3 mô hình:
+
 ![Image](https://github.com/user-attachments/assets/bab4aed4-2548-4a6f-80a7-451ae64bb962)
